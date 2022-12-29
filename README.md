@@ -6,6 +6,5 @@ My interests:
 
     Full stack web development
     Mobile development
-    Computer graphics research
     ML/AI
 
