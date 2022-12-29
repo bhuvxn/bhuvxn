@@ -8,9 +8,6 @@ My interests:
     Mobile development
     ML/AI
 
-<h1 align="center">Hi 👋, I'm Bhuvan</h1>
-<h3 align="center">An aspiring software engineer and a student studying computer science at Western University </h3>
-
 <p align="left">
 </p>
 
