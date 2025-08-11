@@ -1,7 +1,6 @@
 ### Hi there, I'm bhuvan (pronounced Boo-Van)👋
  
-A software developer and a student studying computer science at Western University, creating daily
-
+A software developer and a student studying computer science.
 
 My interests:
 
