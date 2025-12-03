@@ -4,7 +4,7 @@ A software developer and a student studying computer science.
 
 My interests:
 
-    Full stack web development
+    Backend development
     Mobile development
     ML/AI
 
